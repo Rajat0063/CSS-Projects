@@ -5,7 +5,6 @@
 <br>
 
 <h1>CSS Animations</h1>
-<hr>
 <h3>1. <a href="https://css-animations-02-yr.vercel.app/">Loader Animation Effect</a></h3>
 <img src="/assets/image02.png" alt="Project Image">
 <p>Here is a simple and beautiful loading animation effect of CSS.</p>
