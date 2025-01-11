@@ -1,0 +1,30 @@
+.skills {
+    border: 2px solid red;
+    padding: 20px;
+}
+
+h2,h3 {
+    border: 2px solid violet;
+}
+
+.skills-row {
+    display: flex;
+    border: 2px solid brown;
+}
+
+.skills-column {
+    border: 2px solid blueviolet;
+}
+
+.title {
+    border: 2px solid orange;
+}
+
+.skills-box {
+    border: 2px solid tomato;
+}
+
+.progress {
+    border: 2px solid dodgerblue;
+}
+
