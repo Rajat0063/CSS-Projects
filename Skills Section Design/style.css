@@ -50,7 +50,8 @@
 
 .skills .skills-row .skills-column .skills-box .progress {
     padding: 15px 0;
-    margin-bottom: 20px;    /* Progress Wrapper */
+    margin-bottom: 20px;
+    /* Progress Wrapper */
 }
 
 .skills .skills-row .skills-column .skills-box .progress h3 {
@@ -76,9 +77,11 @@
     height: 100%;
     background: #00abf0;
     border-radius: 3px;
-    width: 0; /* Initial width for animation */
+    width: 0;
+    /* Initial width for animation */
     animation: growBar 2s ease-out forwards;
-    animation-delay: 0.5s; /* Add a delay for better visibility */
+    animation-delay: 0.5s;
+    /* Add a delay for better visibility */
 }
 
 /* Animation for Progress */
@@ -86,8 +89,10 @@
     from {
         width: 0;
     }
+
     to {
-        width: var(--final-width); /* Dynamically apply the width */
+        width: var(--final-width);
+        /* Dynamically apply the width */
     }
 }
 
@@ -96,6 +101,7 @@
     from {
         width: 0;
     }
+
     to {
         width: var(--final-width);
     }
@@ -106,29 +112,35 @@
 /* Responsive Design */
 @media (max-width: 768px) {
     .skills {
-        padding: 50px 5%; /* Adjust padding */
+        padding: 50px 5%;
+        /* Adjust padding */
     }
 
     .skills h2 {
-        font-size: 2rem; /* Smaller font size */
+        font-size: 2rem;
+        /* Smaller font size */
     }
 
     .skills .skills-column .title {
-        font-size: 1.25rem; /* Smaller column title */
+        font-size: 1.25rem;
+        /* Smaller column title */
     }
 
     .skills .skills-box .progress h3 {
-        font-size: 0.9rem; /* Reduce font size for labels */
+        font-size: 0.9rem;
+        /* Reduce font size for labels */
     }
 
     .skills .skills-box .progress .bar {
-        height: 15px; /* Adjust bar height */
+        height: 15px;
+        /* Adjust bar height */
     }
 }
 
 @media (max-width: 480px) {
     .skills h2 {
-        font-size: 1.75rem; /* Further reduce title size */
+        font-size: 1.75rem;
+        /* Further reduce title size */
     }
 
     .skills .skills-box .progress h3 {
