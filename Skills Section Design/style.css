@@ -43,16 +43,22 @@
     border: 2px solid #00abf0;
     padding: 5px 15px;
     border-radius: 6px;
+    width: 100%;
+    max-width: 600px;
+    margin: 20px auto;
 }
 
 .skills .skills-row .skills-column .skills-box .progress {
     padding: 15px 0;
+    margin-bottom: 20px;    /* Progress Wrapper */
 }
 
 .skills .skills-row .skills-column .skills-box .progress h3 {
     display: flex;
     justify-content: space-between;
     font-size: 20px;
+    margin: 0 0 5px 0;
+    font-weight: 600;
 }
 
 .skills .skills-row .skills-column .skills-box .progress .bar {
@@ -61,6 +67,8 @@
     border-radius: 6px;
     padding: 5px;
     margin: 10px 0;
+    overflow: hidden;
+    position: relative;
 }
 
 .skills .skills-row .skills-column .skills-box .progress .bar span {
@@ -68,4 +76,62 @@
     height: 100%;
     background: #00abf0;
     border-radius: 3px;
+    width: 0; /* Initial width for animation */
+    animation: growBar 2s ease-out forwards;
+    animation-delay: 0.5s; /* Add a delay for better visibility */
+}
+
+/* Animation for Progress */
+@keyframes growBar {
+    from {
+        width: 0;
+    }
+    to {
+        width: var(--final-width); /* Dynamically apply the width */
+    }
+}
+
+/* Keyframe Animation */
+@keyframes growBar {
+    from {
+        width: 0;
+    }
+    to {
+        width: var(--final-width);
+    }
+}
+
+
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .skills {
+        padding: 50px 5%; /* Adjust padding */
+    }
+
+    .skills h2 {
+        font-size: 2rem; /* Smaller font size */
+    }
+
+    .skills .skills-column .title {
+        font-size: 1.25rem; /* Smaller column title */
+    }
+
+    .skills .skills-box .progress h3 {
+        font-size: 0.9rem; /* Reduce font size for labels */
+    }
+
+    .skills .skills-box .progress .bar {
+        height: 15px; /* Adjust bar height */
+    }
+}
+
+@media (max-width: 480px) {
+    .skills h2 {
+        font-size: 1.75rem; /* Further reduce title size */
+    }
+
+    .skills .skills-box .progress h3 {
+        font-size: 0.8rem;
+    }
 }
