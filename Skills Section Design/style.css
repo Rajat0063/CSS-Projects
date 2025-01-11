@@ -89,21 +89,8 @@
     from {
         width: 0;
     }
-
     to {
-        width: var(--final-width);
-        /* Dynamically apply the width */
-    }
-}
-
-/* Keyframe Animation */
-@keyframes growBar {
-    from {
-        width: 0;
-    }
-
-    to {
-        width: var(--final-width);
+        width: var(--final-width); /* Dynamically apply the width */
     }
 }
 
