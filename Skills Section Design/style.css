@@ -1,34 +1,71 @@
 * {
-    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
 }
 
 .skills {
-    border: 2px solid red;
-    padding: 20px;
+    position: relative;
+    min-height: 100vh;
+    padding: 100px 9% 20px;
+    color: #ededed;
+    background: #031b29;
 }
 
-h2,h3 {
-    border: 2px solid violet;
+.skills h2 {
+    font-size: 50px;
+    text-align: center;
+    margin: 0 auto 50px;
 }
 
-.skills-row {
+.skills h2 span {
+    color: #00abf0;
+}
+
+.skills .skills-row {
     display: flex;
-    border: 2px solid brown;
+    align-items: center;
+    gap: 30px;
 }
 
-.skills-column {
-    border: 2px solid blueviolet;
+.skills .skills-row .skills-column {
+    flex: 1;
 }
 
-.title {
-    border: 2px solid orange;
+.skills .skills-row .skills-column .title {
+    font-size: 25px;
+    margin: 0 0 20px;
 }
 
-.skills-box {
-    border: 2px solid tomato;
+.skills .skills-row .skills-column .skills-box {
+    position: relative;
+    border: 2px solid #00abf0;
+    padding: 5px 15px;
+    border-radius: 6px;
 }
 
-.progress {
-    border: 2px solid dodgerblue;
+.skills .skills-row .skills-column .skills-box .progress {
+    padding: 15px 0;
 }
 
+.skills .skills-row .skills-column .skills-box .progress h3 {
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+}
+
+.skills .skills-row .skills-column .skills-box .progress .bar {
+    height: 25px;
+    border: 2px solid #00abf0;
+    border-radius: 6px;
+    padding: 5px;
+    margin: 10px 0;
+}
+
+.skills .skills-row .skills-column .skills-box .progress .bar span {
+    display: block;
+    height: 100%;
+    background: #00abf0;
+    border-radius: 3px;
+}
