@@ -25,23 +25,26 @@
 
 .skills .skills-row {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     gap: 30px;
+    flex-wrap: wrap; /* Allow wrapping for smaller screens */
 }
 
 .skills .skills-row .skills-column {
     flex: 1;
+    min-width: 300px; /* Ensure minimum width for columns */
 }
 
 .skills .skills-row .skills-column .title {
     font-size: 25px;
     margin: 0 0 20px;
+    text-align: center; /* Center-align titles for better appearance */
 }
 
 .skills .skills-row .skills-column .skills-box {
     position: relative;
     border: 2px solid #00abf0;
-    padding: 5px 15px;
+    padding: 10px 15px;
     border-radius: 6px;
     width: 100%;
     max-width: 600px;
@@ -51,13 +54,12 @@
 .skills .skills-row .skills-column .skills-box .progress {
     padding: 15px 0;
     margin-bottom: 20px;
-    /* Progress Wrapper */
 }
 
 .skills .skills-row .skills-column .skills-box .progress h3 {
     display: flex;
     justify-content: space-between;
-    font-size: 20px;
+    font-size: 18px;
     margin: 0 0 5px 0;
     font-weight: 600;
 }
@@ -67,9 +69,9 @@
     border: 2px solid #00abf0;
     border-radius: 6px;
     padding: 5px;
-    margin: 10px 0;
     overflow: hidden;
     position: relative;
+    background: transparent;
 }
 
 .skills .skills-row .skills-column .skills-box .progress .bar span {
@@ -77,14 +79,12 @@
     height: 100%;
     background: #00abf0;
     border-radius: 3px;
-    width: 0;
-    /* Initial width for animation */
+    width: 0; /* Initial width for animation */
     animation: growBar 2s ease-out forwards;
     animation-delay: 0.5s;
-    /* Add a delay for better visibility */
 }
 
-/* Animation for Progress */
+/* Keyframes for Progress Bar Animation */
 @keyframes growBar {
     from {
         width: 0;
@@ -94,43 +94,54 @@
     }
 }
 
-
-
-/* Responsive Design */
+/* Responsive Design for Tablets (Max Width 768px) */
 @media (max-width: 768px) {
     .skills {
         padding: 50px 5%;
-        /* Adjust padding */
     }
 
     .skills h2 {
         font-size: 2rem;
-        /* Smaller font size */
+    }
+
+    .skills .skills-column .title {
+        font-size: 1.5rem;
+    }
+
+    .skills .skills-box .progress h3 {
+        font-size: 1rem;
+    }
+
+    .skills .skills-box .progress .bar {
+        height: 20px; /* Adjust bar height */
+    }
+}
+
+/* Responsive Design for Mobile Phones (Max Width 480px) */
+@media (max-width: 480px) {
+    .skills {
+        padding: 30px 3%;
+    }
+
+    .skills h2 {
+        font-size: 1.5rem;
+    }
+
+    .skills .skills-column {
+        min-width: 100%; /* Make columns stack vertically */
     }
 
     .skills .skills-column .title {
         font-size: 1.25rem;
-        /* Smaller column title */
+        margin-bottom: 15px;
     }
 
     .skills .skills-box .progress h3 {
         font-size: 0.9rem;
-        /* Reduce font size for labels */
+        margin-bottom: 5px;
     }
 
     .skills .skills-box .progress .bar {
         height: 15px;
-        /* Adjust bar height */
-    }
-}
-
-@media (max-width: 480px) {
-    .skills h2 {
-        font-size: 1.75rem;
-        /* Further reduce title size */
-    }
-
-    .skills .skills-box .progress h3 {
-        font-size: 0.8rem;
     }
 }
