@@ -1,6 +1,6 @@
 <img src="/assets/image01.png" alt="Project Image">
 <h3>CSS Tea-Cup Animation</h3>
-<p>You can view the animation throught this <a href="https://rajat0063.github.io/CSS-Animations/">Click Me!</a> tab.</p>
+<p>You can view the animation throught this <a href="https://css-projects-00.vercel.app/">Click Me!</a> tab.</p>
 
 <br>
 

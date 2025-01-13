@@ -9,4 +9,4 @@
     <li><b>Color Coding:</b> Standard traffic light colors (red, yellow, green) are used to maintain familiarity.</li>
     <li><b>Dark Background:</b> The contrast of the lights against the dark background makes the design pop.</li>
 </ul>
-<ul>Project is Live:&nbsp;&nbsp;<a href="https://traffic-light-04-yr.vercel.app/">Traffic Light</a></ul>
+<ul>Project is Live:&nbsp;&nbsp;<a href="https://css-projects-02.vercel.app/">Traffic Light</a></ul>

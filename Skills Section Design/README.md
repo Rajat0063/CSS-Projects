@@ -9,4 +9,4 @@
     <li><b>Responsive Design:</b> Adapts seamlessly to different screen sizes, with columns stacking vertically on smaller devices.</li>
     <li><b>Static Percentages:</b> Displayed above each bar, matching the animated progress levels.</li>
 </ul>
-<ul>Project is Live:&nbsp;&nbsp;<a href="https://css-animations-03-yr.vercel.app/">Skills Section Design</a></ul>
+<ul>Project is Live:&nbsp;&nbsp;<a href="https://css-projects-01.vercel.app/">Skills Section Design</a></ul>
