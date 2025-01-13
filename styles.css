@@ -7,88 +7,88 @@ body {
     font-family: "Euclid Circular A", "Poppins";
     color: rgb(255 255 255 / 50%);
     overflow: hidden;
-  }
-  
-  .frame {
+}
+
+.frame {
     position: relative;
     display: grid;
     place-items: center;
     scale: 1.45;
     translate: 0 24px;
     user-select: none;
-  }
-  
-  .frame header {
+}
+
+.frame header {
     position: absolute;
     text-align: center;
     width: 100%;
     left: 0;
     top: -70px;
-  }
-  
-  .frame :is(h2, h1, h3) {
+}
+
+.frame :is(h2, h1, h3) {
     font-weight: 400;
     margin: 0;
     text-transform: uppercase;
     letter-spacing: 1px;
-  }
-  
-  .frame h2 {
+}
+
+.frame h2 {
     font-size: 10px;
     margin: 0 0 0px;
     cursor: default;
-  }
-  
-  .frame h1 {
+}
+
+.frame h1 {
     font-size: 24px;
     color: #f9f9f9;
     margin: 0 0 40px;
-  }
-  
-  .frame h3 {
+}
+
+.frame h3 {
     position: absolute;
     bottom: -14px;
     font-size: 12px;
     cursor: default;
-  }
-  
-  .frame.rows h3 {
+}
+
+.frame.rows h3 {
     bottom: -60px;
-  }
-  
-  .grid {
+}
+
+.grid {
     display: grid;
     gap: 0 6px;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(2, 1fr);
-  }
-  
-  .grid.two-col {
+}
+
+.grid.two-col {
     grid-template-columns: repeat(2, 1fr);
     gap: 0;
-  }
-  
-  .grid.rows {
+}
+
+.grid.rows {
     grid-template-columns: 196px;
     gap: 0;
     place-items: center;
-  }
-  
-  .grid.rows > div {
+}
+
+.grid.rows>div {
     height: 40px;
     width: 100%;
-  }
-  
-  .grid > div {
+}
+
+.grid>div {
     position: relative;
     display: grid;
     place-items: center;
     /* width: 70px; */
     width: 51px;
     height: 108px;
-  }
-  
-  .grid > div::after {
+}
+
+.grid>div::after {
     content: "";
     position: absolute;
     top: 50%;
@@ -98,9 +98,9 @@ body {
     background: rgb(255 255 255 / 10%);
     pointer-events: none;
     opacity: 0;
-  }
-  
-  .grid > div::before {
+}
+
+.grid>div::before {
     content: "";
     position: absolute;
     top: 0;
@@ -112,13 +112,13 @@ body {
     background: rgb(255 255 255 / 10%);
     pointer-events: none;
     opacity: 0;
-  }
-  
-  .grid.grid.two-col > div {
+}
+
+.grid.grid.two-col>div {
     width: 96px;
-  }
-  
-  .grid > div > p {
+}
+
+.grid>div>p {
     position: absolute;
     z-index: 0;
     top: -6px;
@@ -126,4 +126,4 @@ body {
     translate: -50% 0;
     margin: 0;
     cursor: default;
-  }
+}
