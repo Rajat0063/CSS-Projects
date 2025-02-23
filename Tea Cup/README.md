@@ -1,11 +1,31 @@
-<img src="/assets/image01.png" alt="Project Image">
-<h3>CSS Tea-Cup Animation</h3>
-<p>You can view the animation throught this <a href="https://css-projects-00.vercel.app/">Click Me!</a> tab.</p>
+# 🍵 Tea Cup Animation <a name="about-project"></a>
 
-<br>
+![screenshot](/Tea%20Cup/assets/image01.png)
 
-<h1>CSS Animations</h1>
-<h3>1. <a href="https://css-animations-02-yr.vercel.app/">Loader Animation Effect</a></h3>
-<img src="/assets/image02.png" alt="Project Image">
-<p>Here is a simple and beautiful loading animation effect of CSS.</p>
-<ul>Github Repository:&nbsp;&nbsp;<a href="https://github.com/Rajat0063/CSS-Animations/tree/main/CSS%20Loading%20Animation">CSS Loader Animation</a></ul>
+## 🛠 Built With 
+
+### Tech Stack 
+
+I have built this project using the following tools & techniques:
+
+- HTML
+- CSS
+
+### Key Features 
+
+
+## 🚀 Live Demo 
+
+- [Live Demo Link](https://css-tea-cup-yr.netlify.app/)
+
+
+## ⭐️ Show your support 
+
+Give a ⭐️ if you like this project!
+
+## Contact
+
+If you have any questions, suggestions, or feedback, you can reach out to the project maintainer:
+
+- Name : [Rajat Yadav](https://https://www.linkedin.com/in/rajat-y-089238265/)
+- Email : [rajatyadav5641@gmail.com](mailto:rajatyadav5641@gmail.com)

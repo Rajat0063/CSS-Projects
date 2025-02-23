@@ -1,24 +1,24 @@
  <!-- # 50 Projects in 50 Days - HTML/CSS and JavaScript -->
- # JavaScript Projects - HTML/CSS and JavaScript
+ # CSS Projects - HTML and CSS
 
 <!-- This is the main repository for all of the projects in the course.
 
--   [Course Link](https://www.traversymedia.com/50-Projects-In-50-Days) -->
+-   [Course Link](https://www.com/50-Projects-In-50-Days) -->
 
 
 |  #  | Projects                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Clock Theme](https://github.com/Rajat0063/JavaScript-Projects/tree/main/Clock%20Theme)                             | [Live Demo](https://js-clock-theme-yr.netlify.app/)               |
-| 02  | [Decimal to Binary](https://github.com/Rajat0063/JavaScript-Projects/tree/main/Decimal%20to%20Binary)                               | [Live Demo](https://js-decimal-to-binary-yr.netlify.app/)                |
-| 03  | [Skills Section Design](https://github.com/Rajat0063/JavaScript-Projects/tree/main/Skills%20Section%20Design)                       | [Live Demo](https://js-skills-section-design-yr.netlify.app/) |
-| 04  | [Snake Game](https://github.com/Rajat0063/JavaScript-Projects/tree/main/Snake%20Game)                          | [Live Demo](https://js-snake-game-yr.netlify.app/)          |
-| 05  | [Traffic Light](https://github.com/Rajat0063/JavaScript-Projects/tree/main/Traffic%20Light)                               | [Live Demo](https://js-traffic-light-yr.netlify.app/)                |
-| 06  | [Weather App]()                           | [Live Demo]()              |
-| 07  | [empty]()                       | [Live Demo]()            |
-| 08  | [empty]()                                         | [Live Demo]()                     |
-| 09  | [empty]()                                     | [Live Demo]()                   |
-| 10  | [empty]()                                         | [Live Demo]()                     |
-| 11  | [empty]()                               | [Live Demo]()                |
+| 01  | [Loader Part-00](https://github.com/Rajat0063/CSS-Projects/tree/main/Loaders/Part-00)                             | [Live Demo](https://css-loaders-part00-yr.netlify.app/)               |
+| 02  | [Loader Part-01](https://github.com/Rajat0063/CSS-Projects/tree/main/Loaders/Part-01)                               | [Live Demo](https://css-loaders-part01-yr.netlify.app/)                |
+| 03  | [Loader Part-02](https://github.com/Rajat0063/CSS-Projects/tree/main/Loaders/Part-02)                       | [Live Demo](https://css-loaders-part02-yr.netlify.app/) |
+| 04  | [Loader Part-03](https://github.com/Rajat0063/CSS-Projects/tree/main/Loaders/Part-03)                          | [Live Demo](https://css-loaders-part03-yr.netlify.app/)          |
+| 05  | [Loader Part-04](https://github.com/Rajat0063/CSS-Projects/tree/main/Loaders/Part-04)                               | [Live Demo](https://css-loaders-part04-yr.netlify.app/)                |
+| 06  | [Loader Part-05](https://github.com/Rajat0063/CSS-Projects/tree/main/Loaders/Part-05)                           | [Live Demo](https://css-loaders-part05-yr.netlify.app/)              |
+| 07  | [Loader Part-06](https://github.com/Rajat0063/CSS-Projects/tree/main/Loaders/Part-06)                       | [Live Demo](https://css-loaders-part06-yr.netlify.app/)            |
+| 08  | [Loader Part-07](https://github.com/Rajat0063/CSS-Projects/tree/main/Loaders/Part-07)                                         | [Live Demo](https://css-loaders-part07-yr.netlify.app/)                     |
+| 09  | [Skills Section Design](https://github.com/Rajat0063/CSS-Projects/tree/main/Skills%20Section%20Design)                                     | [Live Demo](https://css-skills-section-design-yr.netlify.app/)                   |
+| 10  | [Tea Cup](https://github.com/Rajat0063/CSS-Projects/tree/main/Tea%20Cup)                                         | [Live Demo](https://css-tea-cup-yr.netlify.app/)                     |
+| 11  | [Traffic Light](https://github.com/Rajat0063/CSS-Projects/tree/main/Traffic%20Light)                               | [Live Demo](https://css-traffic-light-yr.netlify.app/)                |
 | 12  | [empty]()                                   | [Live Demo]()                  |
 | 13  | [empty]()                   | [Live Demo]()          |
 | 14  | [empty]()                     | [Live Demo]()           |
