@@ -1,5 +1,7 @@
-<h3>Taffic Light Design</h3>
-<img src="/Traffic Light/assets/image.png">
+# 🚥Traffic Light <a name="about-project"></a>
+
+![screenshot](/Traffic%20Light/assets/image.png)
+
 <p>The image displays a minimalistic traffic light design with three glowing lights (red, yellow, and green) set against a dark background. This visually striking representation features a smooth glow around each light, creating an elegant and realistic appearance. </p> 
 <br>
 <h2>Key Features:</h2>
@@ -10,8 +12,6 @@
     <li><b>Dark Background:</b> The contrast of the lights against the dark background makes the design pop.</li>
 </ul>
 
-![screenshot](/Traffic%20Light/assets/image.png)
-
 ## 🛠 Built With 
 
 ### Tech Stack 
@@ -20,14 +20,13 @@ I have built this project using the following tools & techniques:
 
 - HTML
 - CSS
-- JavaScript
 
 ### Key Features 
 
 
 ## 🚀 Live Demo 
 
-- [Live Demo Link](https://js-clock-theme-yr.netlify.app/)
+- [Live Demo Link](https://app.netlify.com/sites/css-traffic-light-yr/)
 
 
 ## ⭐️ Show your support 
