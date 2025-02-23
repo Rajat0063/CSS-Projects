@@ -26,7 +26,7 @@ I have built this project using the following tools & techniques:
 
 ## 🚀 Live Demo 
 
-- [Live Demo Link](https://app.netlify.com/sites/css-traffic-light-yr/)
+- [Live Demo Link](https://css-traffic-light-yr.netlify.app/)
 
 
 ## ⭐️ Show your support 
