@@ -10,7 +10,7 @@
     <li><b>Dark Background:</b> The contrast of the lights against the dark background makes the design pop.</li>
 </ul>
 
-![screenshot](/Clock%20Theme/assets/image.png)
+![screenshot](/Traffic%20Light/assets/image.png)
 
 ## 🛠 Built With 
 
