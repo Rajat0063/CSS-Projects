@@ -23,7 +23,7 @@
 | 09  | [Skills Section Design](https://github.com/Rajat0063/CSS-Projects/tree/main/Skills%20Section%20Design)                                     | [Live Demo](https://css-skills-section-design-yr.netlify.app/)                   |
 | 10  | [Tea Cup](https://github.com/Rajat0063/CSS-Projects/tree/main/Tea%20Cup)                                         | [Live Demo](https://css-tea-cup-yr.netlify.app/)                     |
 | 11  | [Traffic Light](https://github.com/Rajat0063/CSS-Projects/tree/main/Traffic%20Light)                               | [Live Demo](https://css-traffic-light-yr.netlify.app/)                |
-| 12  | [Login Page UI-00](https://github.com/Rajat0063/CSS-Projects/tree/main/Login%20Pages/Login%20UI-00)                                   | [Live Demo](https://css-login-ui-00.netlify.app/)                  |
+| 12  | [Login Page UI-00](https://github.com/Rajat0063/CSS-Projects/tree/main/Login%20Pages/Login%20UI-00)                                   | [Live Demo](https://css-login-pages-ui-00.netlify.app/)                  |
 | 13  | [empty]()                   | [Live Demo]()          |
 | 14  | [empty]()                     | [Live Demo]()           |
 | 15  | [empty]()                   | [Live Demo]()          |
