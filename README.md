@@ -6,8 +6,8 @@
 -   [Course Link](https://www.com/50-Projects-In-50-Days) -->
 
 
-|  #  | Projects | Live Demo                                                                         |
-| :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+|  #  | Projects | Live Demo |
+|  #  | Projects | Live Demo |----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Loader Part-00](https://github.com/Rajat0063/CSS-Projects/tree/main/Loaders/Part-00)                             | [Live Demo](https://css-loaders-part00-yr.netlify.app/)               |
 | 02  | [Loader Part-01](https://github.com/Rajat0063/CSS-Projects/tree/main/Loaders/Part-01)                               | [Live Demo](https://css-loaders-part01-yr.netlify.app/)                |
 | 03  | [Loader Part-02](https://github.com/Rajat0063/CSS-Projects/tree/main/Loaders/Part-02)                       | [Live Demo](https://css-loaders-part02-yr.netlify.app/) |
