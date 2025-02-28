@@ -5,7 +5,7 @@
 
 -   [Course Link](https://www.com/50-Projects-In-50-Days) -->
 
-<table>
+<table style="border: none;">
 <tr>
 <td>
 
