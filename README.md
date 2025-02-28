@@ -5,13 +5,7 @@
 
 -   [Course Link](https://www.com/50-Projects-In-50-Days) -->
 
-<style>
-    table, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-</style>
-<table>
+<table border="1">
 <tr>
 <td>
 
