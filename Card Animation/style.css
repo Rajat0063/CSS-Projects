@@ -91,17 +91,17 @@ input:checked + label .description {
 }
 
 .card[for="c1"] {
-    background-image: url();
+    background-image: url(./c1.jpg);
 }
 
 .card[for="c2"] {
-    background-image: url();
+    background-image: url(./c2.jpg);
 }
 
 .card[for="c3"] {
-    background-image: url();
+    background-image: url(./c3.jpg);
 }
 
 .card[for="c4"] {
-    background-image: url();
+    background-image: url(./c4.jpg);
 }
