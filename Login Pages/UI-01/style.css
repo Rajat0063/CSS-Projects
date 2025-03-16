@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #eef1f8;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    width: 72%;
+    height: 70%;
+    background-color: #ffffff;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow:  2px 2px 30px rgba(66, 57, 238, 0.2);
+    border-radius: 20px;
+}
+
+.sign-up {
+    width: 50%;
+}
+
+.text-container {
+    width: 50%;
+    height: 100%;
+    background-color: #832d2f;
+}
+
+.heading {
+    font-family: calibri;
+    color: rgba(red, green, blue, alpha);
+}
