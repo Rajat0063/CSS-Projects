@@ -46,7 +46,7 @@
 |  #  | Projects | Live Demo |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 26  | [Card Animation](https://github.com/Rajat0063/CSS-Projects/tree/main/Card%20Animation) | [Live Demo](https://css-card-animation-yr.netlify.app/) |
-| 27  | [empty]() | [Live Demo]() |
+| 27  | [Loader Part-08](https://github.com/Rajat0063/CSS-Projects/tree/main/Loaders/Part-08) | [Live Demo](https://css-loaders-part08-yr.netlify.app/) |
 | 28  | [empty]() | [Live Demo]() |
 | 29  | [empty]() | [Live Demo]() |
 | 30  | [empty]() | [Live Demo]() |
